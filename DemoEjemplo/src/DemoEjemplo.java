@@ -14,7 +14,8 @@ public class DemoEjemplo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
+        System.out.println("Hola mundo 3");
+        System.out.println("JOSE ARMANDO");
     }
     
 }
