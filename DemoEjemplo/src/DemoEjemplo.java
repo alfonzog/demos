@@ -15,7 +15,7 @@ public class DemoEjemplo {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo 3");
-        System.out.println("JOSE ARMANDO");
+        System.out.println("JOSE ARMANDO 2");
     }
     
 }
